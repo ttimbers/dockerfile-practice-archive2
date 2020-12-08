@@ -1,6 +1,5 @@
 # Author: Tiffany Timbers
 # 2020-12-08
-
 FROM debian:stable
 
 RUN apt-get update
